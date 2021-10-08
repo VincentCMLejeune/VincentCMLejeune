@@ -5,21 +5,21 @@
 <br>
 
 
-<h3 align="center">Contact me !</h3>
+<h3>Contact me</h3>
 
 ---
 
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/vincent-lejeune-285834221/" target="_blank"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vincentcmlejeune@gmail.com" target="_blank"><img alt="G-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </div>
 
 
-<h3 align="center">Mastering...</h3>
+<h3>Mastering...</h3>
 
 ---
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
