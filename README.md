@@ -9,8 +9,11 @@
 
 ---
 
-<a href="https://www.linkedin.com/in/vincent-lejeune-285834221/" target="_blank"><img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:vincentcmlejeune@gmail.com" target="_blank"><img align="center" alt="G-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<div align="center">
+<a href="https://www.linkedin.com/in/vincent-lejeune-285834221/" target="_blank"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vincentcmlejeune@gmail.com" target="_blank"><img alt="G-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</div>
+
 
 <h3 align="center">Mastering...</h3>
 
