@@ -2,9 +2,8 @@
 <p>I am studying Web Development at <a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a> in Paris, France 🇫🇷/🇪🇺</p>
 <p>Working on multiple frontend and backend project using React and Node.js</p>
 <p>Passionnate about algorithms and problem solving - let's meet on Codewars !</p>
+
 <br>
-
-
 <h3>Contact me</h3>
 
 ---
@@ -14,7 +13,7 @@
 <a href="mailto:vincentcmlejeune@gmail.com" target="_blank"><img alt="G-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </div>
 
-
+<br>
 <h3>Mastering...</h3>
 
 ---
@@ -31,13 +30,14 @@
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
 </div>
 
+<br>
 <h3 align="center">Github activity</h3>
 
 ---
 
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCMLejeune)](https://github.com/VincentCMLejeune/github-readme-stats)
+<div align="center">[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCMLejeune)](https://github.com/VincentCMLejeune/github-readme-stats)</div>
 
-
+<br>
 <h3 align="center">Codewars</h3>
 
 ---
