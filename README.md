@@ -1,11 +1,16 @@
-### Hello World 👋
-I am a student in Web Development in Paris - Working on multiple frontend and backend project using React and Nodejs
-
-- 🌱 Learning design patterns in depth
-<br>## Connect with me[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohammad-faisal-2665b5134)[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://56faisal.medium.com/)[<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5379437/mohammad-faisal)[<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/56faisal/)[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Mohamma88766694)<br>
-<br>## Expertise
-<img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" /><img align="left" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /><img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /><img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" /><img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" /><br>
-<br>
- <h3 align="center">Codewars Stats</h3>
+<h1 align="center">Hello World 👋 I am Vincent Lejeune !</h1>
 ---
-<a href=https://www.codewars.com/users/VincentCMLejeune>[Les Stats GitHub de Vincent Lejeune](https://www.codewars.com/users/VincentCMLejeune/badges/large)</a>
+<h3 align="center">I am studying Web Development at <a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a> in Paris, France 🇫🇷/🇪🇺</h3>
+<h3 align="center">Working on multiple frontend and backend project using React and Node.js</h3>
+<h3 align="center">Passionnate about algorithms and problem solving - Let's meet on Codewars !</h3>
+
+<br>## Contact me
+<a href="https://www.linkedin.com/in/vincent-lejeune-285834221/"><img align="center" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:vincentcmlejeune@gmail.com"><img align="center" alt="G-mail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+
+<br>## Learning
+<img align="center" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+
+
+<p align="center"><a href="https://www.codewars.com/users/VincentCMLejeune" target="_blank"><img src="https://www.codewars.com/users/VincentCMLejeune/badges/small"></a></p>
