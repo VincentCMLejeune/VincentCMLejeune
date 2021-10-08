@@ -31,6 +31,8 @@
 <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/> 
 </div>
 
+<h3 align="center">Codewars</h3>
+
 ---
 
 <div align="center"><a href="https://www.codewars.com/users/VincentCMLejeune" target="_blank"><img src="https://www.codewars.com/users/VincentCMLejeune/badges/large"></a></div>
