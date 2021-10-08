@@ -35,7 +35,7 @@
 
 ---
 
-[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCMLejeune)](https://github.com/VincentCMLejeune/github-readme-stats)
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCMLejeune&show_icons=true&theme=tokyonight)](https://github.com/VincentCMLejeune/github-readme-stats)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?VincentCMLejeune)](https://github.com/VincentCMLejeune/github-readme-stats)
 
