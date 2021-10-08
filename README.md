@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I am Vincent Lejeune !</h1>
-<h3 align="center">I am studying Web Development at <a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a> in Paris, France 🇫🇷/🇪🇺</h3>
-<h3 align="center">Working on multiple frontend and backend project using React and Node.js</h3>
-<h3 align="center">Passionnate about algorithms and problem solving - Let's meet on Codewars !</h3>
+<p>I am studying Web Development at <a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a> in Paris, France 🇫🇷/🇪🇺</p>
+<p>Working on multiple frontend and backend project using React and Node.js</p>
+<p>Passionnate about algorithms and problem solving - Let's meet on Codewars !</p>
 <br>
 
 
@@ -35,10 +35,7 @@
 
 ---
 
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
- 
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="center">Codewars</h3>
 
