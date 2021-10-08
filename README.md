@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 I am Vincent Lejeune !</h1>
 <p>I am studying Web Development at <a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a> in Paris, France 🇫🇷/🇪🇺</p>
 <p>Working on multiple frontend and backend project using React and Node.js</p>
-<p>Passionnate about algorithms and problem solving - Let's meet on Codewars !</p>
+<p>Passionnate about algorithms and problem solving - let's meet on Codewars !</p>
 <br>
 
 
@@ -35,6 +35,7 @@
 
 ---
 
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCMLejeune)](https://github.com/VincentCMLejeune/github-readme-stats)
 
 
 <h3 align="center">Codewars</h3>
