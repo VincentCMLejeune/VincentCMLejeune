@@ -35,7 +35,7 @@
 
 ---
 
-<div align="center">[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCMLejeune)](https://github.com/VincentCMLejeune/github-readme-stats)</div>
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentCMLejeune)](https://github.com/VincentCMLejeune/github-readme-stats)
 
 <br>
 <h3 align="center">Codewars</h3>
