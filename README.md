@@ -14,7 +14,7 @@
 </div>
 
 <br>
-<h3>Mastering...</h3>
+<h3>Learning...</h3>
 
 ---
 
