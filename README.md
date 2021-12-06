@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋 I am Vincent Lejeune !</h1>
-<p><a href="https://vincentlejeune-codes.vercel.app/" target=_blank>Check out my portfolio !</a></p>
+<p><a href="https://vincentlejeune-codes.vercel.app/" target="_blank">Check out my portfolio !</a></p>
 <p>I am studying Web Development at <a href="https://www.wildcodeschool.com/fr-FR">Wild Code School</a> in Paris, France 🇫🇷/🇪🇺</p>
 <p>Working on multiple front- and back-end projects using React.js</p>
 <p>Passionnate about algorithms and problem solving - let's meet on Codewars !</p>
