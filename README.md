@@ -1,8 +1,7 @@
 <h1 align="center">Hello World 👋 I am Vincent Lejeune !</h1>
-<p><a href="https://vincentlejeune-codes.vercel.app/" target="_blank">Check out my portfolio !</a></p>
 <p>I am a Junior Web Developer in Paris, France 🇫🇷/🇪🇺</p>
 <p>Working on multiple front- and back-end projects using React.js</p>
-<p>Passionnate about algorithms and problem solving - let's meet on Codewars !</p>
+<p>Currently working for <a href="https://www.netdevices.fr/">NetDevices</a></p>
 
 <br>
 <h3>Contact me</h3>
