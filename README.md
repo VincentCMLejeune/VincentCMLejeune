@@ -1,6 +1,6 @@
 <h1 align="center">Hello World 👋 I am Vincent Lejeune !</h1>
 <p>I am a Junior Web Developer in Paris, France 🇫🇷/🇪🇺</p>
-<p>Working on multiple front- and back-end projects using React.js</p>
+<p>Working on multiple front- and back-end projects using mostly JavaScript (but I have a few Python and C projects hidden here and there)</p>
 <p>Currently working for <a href="https://www.netdevices.fr/">NetDevices</a></p>
 
 <br>
